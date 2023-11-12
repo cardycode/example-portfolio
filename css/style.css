@@ -94,4 +94,8 @@ p {
   body {
     text-align: center;
   }
+  .project-link {
+    display: block;
+    margin: 0 auto;
+  }
 }
